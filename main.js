@@ -70,7 +70,7 @@ function pad(val) {
     }
 }
 
-cards.addEventListener("click", pad);
+
 
 
 
