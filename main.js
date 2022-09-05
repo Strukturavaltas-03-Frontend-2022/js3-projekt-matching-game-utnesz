@@ -15,6 +15,8 @@ for (let i = 0; i < 10; i++) {
 const cards = document.querySelectorAll(".card");
 const images = document.querySelectorAll(".image");
 
+
+
 let randoms1 = [];
 let randoms2 = [];
 
